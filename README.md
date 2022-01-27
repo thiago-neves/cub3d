@@ -11,6 +11,8 @@ A “realistic” 3D graphical representation of the inside of a maze from a fir
 
 ## 🏁 Getting started
 
+You'll have to use the `make` command to compile the project, after that just execute `./cub3d [MAP_PATH]`
+
 ## 📝 Makefile commands
 
 `make` compile and generates the libft.a.
